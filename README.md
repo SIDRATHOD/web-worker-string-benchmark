@@ -11,8 +11,11 @@ This benchmark compares two methods for passing large strings to web workers:
 # Install dependencies
 pnpm install
 
+# Build the project
+pnpm build
+
 # Run the benchmark
-pnpm run benchmark
+pnpm preview
 ```
 
 Then open http://localhost:5173/ in your browser.
@@ -43,7 +46,7 @@ Then open http://localhost:5173/ in your browser.
 
 ## 📈 Test Results
 
-The benchmark measures which method is more efficient across different **string sizes** (1 MB → 100 MB), **string types** (ASCII vs Unicode), and multiple **iterations**.
+The benchmark measures which method is more efficient across different **string sizes** (1 MB → 100 MB), **string types** (ASCII vs Unicode), and multiple **iterations** in Google Chrome version 139.
 
 - **String Sizes Tested**: 1 MB, 5 MB, 10 MB, 50 MB, 100 MB  
 - **String Types**: Random ASCII, Unicode (UTF-8 encoded)  
@@ -132,9 +135,6 @@ Test results summary is as follows.
 ### Worker Processing
 
 Do nothing to avoid it affects testing results. You can edit `src/worker.ts` to simulate your actual use case.
-
-```typescript
-function processStringData(data: string)
 
 ### Memory Considerations
 
